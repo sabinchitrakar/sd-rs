@@ -3,6 +3,10 @@ name = "sd-rs"
 version = "0.1.0"
 authors = ["immortal infidel <immortal.infidel@gmail.com>"]
 edition = "2018"
+license="MIT"
+description="Standard Deviation Over Period (SD) implementation in Rust"
+repository="https://github.com/immortalinfidel/sd-rs"
+homepage="https://github.com/immortalinfidel/sd-rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
