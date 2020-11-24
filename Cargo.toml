@@ -1,0 +1,11 @@
+[package]
+name = "sd-rs"
+version = "0.1.0"
+authors = ["immortal infidel <immortal.infidel@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ta-common = { path = "../ta-common", version = "0.1.0" }
+sma-rs = { path = "../sma-rs", version = "0.1.0" }
