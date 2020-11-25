@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/immortalinfidel/sd-rs.svg?branch=master)](https://travis-ci.com/immortalinfidel/sd-rs)
+
 # Standard Deviation (SD)
 ```
 use ta_common::traits::Indicator;
